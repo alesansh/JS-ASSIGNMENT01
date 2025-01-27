@@ -3,8 +3,8 @@
 ## Description
 This is my solution to JavaScript Assignment 01. This project demonstrates basic JavaScript functionality, where the user inputs the number of courses and their corresponding marks, and the website displays the calculated average and grade.
 
-## Live Demo
-[Click here to view the live demo](https://github.com/JS-Assignment-01)
+## Live Dem
+[Click here to view the live demo](https://github.com/alesansh/JS-Assignment-01.git)
 
 > Note: Replace `username` with your actual GitHub username.
 
