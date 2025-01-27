@@ -4,7 +4,7 @@
 This is my solution to JavaScript Assignment 01.
 
 ## Live Demo
-[Click here to view the live demo](https://username.github.io/JS-Assignment-01/)
+[Click here to view the live demo](https://alesansh.github.io/JS-Assignment-01/)
 
 ## Instructions
 - Open the live demo link.
